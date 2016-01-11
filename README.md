@@ -57,6 +57,6 @@ METHODS
 
 Author
 
- G66K F<G66K@inbox.com>.
+ G66K <G66K@inbox.com>.
 
 __END__
