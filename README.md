@@ -1,10 +1,10 @@
 # IP-Geo
 
-=head1 NAME
+NAME
 
 IP::Geo - IP Lookup 
 
-=head1 SYNOPSIS
+SYNOPSIS
 
   use strict;
   use warnings;
@@ -27,27 +27,23 @@ IP::Geo - IP Lookup
      
 
 
-=head1 DESCRIPTION
+DESCRIPTION
 
-C<IP::Geo> Is Using Free API from C<http://ip-api.com>  Its quit Good.
+IP::Geo> Is Using Free API from <http://ip-api.com>.
 
-=head1 CONSTRUCTOR
+CONSTRUCTOR
 
-=over 4
-
-=item new ( IP )
+ new ( IP );
 
 Creates an C<IP::Geo>.   it receives one parameters , it's passed to
-the  C<API>; if the API fails, the object is return empty.  Otherwise,
+the  <API>; if the API fails, the object is return empty.  Otherwise,
 it is returned "ERROR: Fails".
 
-=back
 
-=head1 METHODS
 
-=over 4
+METHODS
 
-=item Code()
+ Code()
  Country() 
  City() 
  Zip()
@@ -59,12 +55,8 @@ it is returned "ERROR: Fails".
  Longtitude()
  Zone()
 
+Author
 
-=back
+ G66K F<G66K@inbox.com>.
 
-
-=head1 Author
-
- G66K E<lt>F<G66K@inbox.com>E<gt>.
-
-=cut
+__END__
