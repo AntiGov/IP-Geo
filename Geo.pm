@@ -149,7 +149,7 @@ it is returned "ERROR: Fails".
 
 =head1 Author
 
- G66K E<lt>F<G66K@inbox.com>E<gt>.
+ AntiGov E<lt>F<AntiGov@inbox.com>E<gt>.
 
 =cut
 
