@@ -57,6 +57,6 @@ METHODS
 
 Author
 
- G66K <G66K@inbox.com>.
+ AntiGov <AntiGov@inbox.com>.
 
 __END__
